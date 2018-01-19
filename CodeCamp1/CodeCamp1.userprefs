@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{BDCE6FE2-1C63-468F-B52C-BDA779E4EFE4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodeCamp1/Program.cs">
+    <Files>
+      <File FileName="CodeCamp1/Program.cs" Line="172" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.CodeCamp1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

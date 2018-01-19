@@ -1,0 +1,5 @@
+/Users/p.t.hhieu/Desktop/C#/CodeCamp1/CodeCamp1/bin/Debug/CodeCamp1.exe
+/Users/p.t.hhieu/Desktop/C#/CodeCamp1/CodeCamp1/bin/Debug/CodeCamp1.pdb
+/Users/p.t.hhieu/Desktop/C#/CodeCamp1/CodeCamp1/obj/x86/Debug/CodeCamp1.csproj.CoreCompileInputs.cache
+/Users/p.t.hhieu/Desktop/C#/CodeCamp1/CodeCamp1/obj/x86/Debug/CodeCamp1.exe
+/Users/p.t.hhieu/Desktop/C#/CodeCamp1/CodeCamp1/obj/x86/Debug/CodeCamp1.pdb
