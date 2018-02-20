@@ -1,0 +1,10 @@
+/Users/p.t.hhieu/Desktop/C#/Account_manager/bin/Debug/netcoreapp2.0/Account_manager.deps.json
+/Users/p.t.hhieu/Desktop/C#/Account_manager/bin/Debug/netcoreapp2.0/Account_manager.runtimeconfig.json
+/Users/p.t.hhieu/Desktop/C#/Account_manager/bin/Debug/netcoreapp2.0/Account_manager.runtimeconfig.dev.json
+/Users/p.t.hhieu/Desktop/C#/Account_manager/bin/Debug/netcoreapp2.0/Account_manager.dll
+/Users/p.t.hhieu/Desktop/C#/Account_manager/bin/Debug/netcoreapp2.0/Account_manager.pdb
+/Users/p.t.hhieu/Desktop/C#/Account_manager/obj/Debug/netcoreapp2.0/Account_manager.csproj.CoreCompileInputs.cache
+/Users/p.t.hhieu/Desktop/C#/Account_manager/obj/Debug/netcoreapp2.0/Account_manager.AssemblyInfoInputs.cache
+/Users/p.t.hhieu/Desktop/C#/Account_manager/obj/Debug/netcoreapp2.0/Account_manager.AssemblyInfo.cs
+/Users/p.t.hhieu/Desktop/C#/Account_manager/obj/Debug/netcoreapp2.0/Account_manager.dll
+/Users/p.t.hhieu/Desktop/C#/Account_manager/obj/Debug/netcoreapp2.0/Account_manager.pdb
